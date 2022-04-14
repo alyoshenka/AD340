@@ -30,3 +30,7 @@ Options for Beta testing are available
 - **native**
 
 *Careful about using non-standard tools*
+
+## Android Development
+
+something-something "hardware virtualization"
